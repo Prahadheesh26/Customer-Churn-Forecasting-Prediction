@@ -22,18 +22,18 @@ Includes:
 Customer usage patterns
 Service-related features
 Churn status
-##🔍 Methodology
+## 🔍 Methodology
 Data preprocessing and feature engineering
 Exploratory Data Analysis (EDA)
 Model training using classification algorithms
 Model evaluation using performance metrics
 Interpretation of churn-driving factors
-##📊 Key Insights
+## 📊 Key Insights
 Identified customers with high churn probability
 Highlighted important features influencing churn
 Enabled early intervention through targeted offers
 Improved customer retention planning
-##✅ Conclusion
+## ✅ Conclusion
 The churn prediction model provides valuable insights into customer behavior and helps businesses proactively retain customers through personalized engagement strategies.
 ##3📬 Contact
 Prahadheesh S
